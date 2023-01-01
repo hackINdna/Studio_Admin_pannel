@@ -1,0 +1,502 @@
+@media only screen and (min-width: 1633px) and (max-width: 1803px){
+    .main-menu > a {
+        font-size: 1.5rem;
+    }
+    .main-menu > a:hover {
+        font-size: 1.5rem;
+    }
+
+    .notification-section {
+        font-size: 1.2rem;
+    }
+
+    .p-s-studio-details > span {
+        font-size: 1rem;
+    }
+
+    .st-name {
+        width: 30%;
+    }
+}
+
+@media only screen and (min-width: 1355px) and (max-width: 1633px) {
+    .main-menu > a {
+        margin: 0 0 5% 27%;
+        font-size: 1.3rem;
+    }
+    .main-menu > a:hover {
+        margin: 0 0 5% 27%;
+        font-size: 1.3rem;
+    }
+
+    .main-menu-content img {
+        width: 25px;
+    }
+
+    .notification-section {
+        font-size: 1rem;
+        height: 8%;
+    }
+
+    .gridd-sub-div {
+        height: 30%;
+    }
+
+    .gridd-sub-div > span {
+        font-size: 1rem;
+    }
+
+    .gridd-sub-div > p {
+        font-size: 1rem;
+    }
+
+    .percent-div > span {
+        font-size: 1.5rem;
+    }
+
+    .percent-div {
+        height: 76%;
+    }
+
+    .eighty {
+        font-size: 2rem;
+    }
+    
+    .studio-title {
+        height: 8%;
+    }
+
+    .studio-title > img {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .studio-name {
+        font-size: 2.5rem;
+    }
+
+    .p-s-studio-details > span {
+        font-size: 1rem;
+
+    }
+
+    .p-s-studio-details > span > img {
+        width: 1.5rem;
+        height: 1.5rem;
+
+    }
+
+    .st-name {
+        width: 30%;
+    }
+
+    .subs-std {
+        width: 30%;
+    }
+
+    .dropdown-menu {
+        width: 12vw;
+        font-size: 1rem;
+    }
+
+    .q-img {
+        width: 18%;
+    }
+}
+
+@media only screen and (min-width: 1164px) and (max-width: 1355px) {
+    .main-menu > a {
+        margin: 0 0 5% 27%;
+        font-size: 1rem;
+    }
+    .main-menu > a:hover {
+        margin: 0 0 5% 27%;
+        font-size: 1rem;
+    }
+
+    .main-menu-content img {
+        width: 25px;
+    }
+
+    .notification-section {
+        font-size: 0.8rem;
+        height: 8%;
+    }
+
+    .gridd-sub-div {
+        height: 30%;
+    }
+
+    .gridd-sub-div > span {
+        font-size: 1rem;
+    }
+
+    .gridd-sub-div > p {
+        font-size: 1rem;
+    }
+
+    .percent-div > span {
+        font-size: 1.5rem;
+    }
+
+    .percent-div {
+        height: 76%;
+    }
+
+    .eighty {
+        font-size: 2rem;
+    }
+    .studio-title {
+        height: 8%;
+    }
+
+    .studio-title > img {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .studio-name {
+        font-size: 2.5rem;
+    }
+
+    .content {
+        margin: 0 15% 0 0;
+        font-size: 1.3rem;
+    }
+
+    .content > img {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+    .p-s-studio-details > span {
+        font-size: 1rem;
+
+    }
+
+    .p-s-studio-details > span > img {
+        width: 1.5rem;
+        height: 1.5rem;
+
+    }
+
+    .studio {
+        width: 6vw;
+        font-size: 1.2rem;
+    }
+
+    .st-name {
+        width: 30%;
+    }
+
+    .subs-std {
+        width: 35%;
+    }
+
+    .dropdown-menu {
+        width: 14vw;
+        font-size: 0.8rem;
+    }
+    .q-img {
+        width: 20%;
+    }
+
+    .q-img img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .q-details h3 {
+        font-size: 1.2rem;
+    }
+    .q-details  p{
+        font-size: 1rem;
+    }
+    
+}
+
+@media only screen and (min-width: 1081px) and (max-width: 1164px) {
+    .gridd {
+        gap: 0rem 1.5rem;
+    }
+    .main-menu > a {
+        margin: 0 0 5% 27%;
+        font-size: 1rem;
+    }
+    .main-menu > a:hover {
+        margin: 0 0 5% 27%;
+        font-size: 1rem;
+    }
+
+    .main-menu-content img {
+        width: 25px;
+    }
+
+    .notification-section {
+        font-size: 0.8rem;
+        height: 10%;
+    }
+
+    .gridd-sub-div {
+        height: 30%;
+    }
+
+    .gridd-sub-div > span {
+        font-size: 0.8rem;
+    }
+
+    .gridd-sub-div > p {
+        font-size: 0.8rem;
+    }
+
+    .percent-div > span {
+        font-size: 1.2rem;
+    }
+
+    .percent-div {
+        height: 70%;
+    }
+
+    .eighty {
+        font-size: 1.5rem;
+    }
+    .studio-title {
+        height: 8%;
+    }
+
+    .studio-title > img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .studio-name {
+        font-size: 2rem;
+    }
+
+    .content {
+        margin: 0 15% 0 0;
+        font-size: 1.3rem;
+    }
+
+    .content > img {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .studio-details-divs {
+        font-size: 0.8rem;
+    }
+    .studio-details-divs > span {
+        font-size: 1.3rem;
+    }
+
+    .top-div {
+        height: 2rem;
+    }
+    .p-s-studio-details > span {
+        font-size: 1rem;
+
+    }
+
+    .p-s-studio-details > span > img {
+        width: 1.5rem;
+        height: 1.5rem;
+
+    }
+
+    .studio {
+        width: 5vw;
+        font-size: 1rem;
+    }
+
+    .st-name {
+        width: 35%;
+    }
+
+    .subs-std {
+        width: 40%;
+    }
+
+    .dropdown-menu {
+        width: 14vw;
+        font-size: 0.8rem;
+    }
+    .q-img {
+        width: 25%;
+    }
+
+    .q-img img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .q-details h3 {
+        font-size: 1.2rem;
+    }
+    .q-details  p{
+        font-size: 1rem;
+    }
+    .query {
+        height: 10vh;
+    }
+    
+}
+
+@media only screen and (min-width: 1023px) and (max-width: 1081px) {
+    .gridd {
+        gap: 0rem 1.5rem;
+    }
+    .main-menu > a {
+        margin: 0 0 5% 27%;
+        font-size: 0.9rem;
+    }
+    .main-menu > a:hover {
+        margin: 0 0 5% 27%;
+        font-size: 0.9rem;
+    }
+
+    .main-menu-content img {
+        width: 25px;
+    }
+
+    .notification-section {
+        font-size: 0.8rem;
+        height: 10%;
+    }
+
+    .gridd-sub-div {
+        height: 30%;
+    }
+
+    .gridd-sub-div > span {
+        font-size: 0.8rem;
+    }
+
+    .gridd-sub-div > p {
+        font-size: 0.8rem;
+    }
+
+    .percent-div > span {
+        font-size: 1.2rem;
+    }
+
+    .percent-div {
+        height: 70%;
+    }
+
+    .eighty {
+        font-size: 1.5rem;
+    }
+    .studio-title {
+        height: 8%;
+    }
+
+    .studio-title > img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .studio-name {
+        font-size: 2rem;
+    }
+
+    .content {
+        margin: 0 15% 0 0;
+        font-size: 1.3rem;
+    }
+
+    .content > img {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .studio-details-divs {
+        font-size: 0.8rem;
+    }
+    .studio-details-divs > span {
+        font-size: 1.3rem;
+    }
+
+    .top-div {
+        height: 2rem;
+    }
+
+    .p-s-studio-details > span {
+        font-size: 1rem;
+
+    }
+
+    .p-s-studio-details > span > img {
+        width: 1.5rem;
+        height: 1.5rem;
+
+    }
+
+    .studio {
+        width: 5vw;
+        font-size: 0.9rem;
+        /* background-color: red; */
+    }
+
+    .st-name {
+        width: 35%;
+    }
+
+    .subs-std {
+        width: 40%;
+    }
+
+    .desc-second {
+        width: 25%;
+    }
+
+    .st-name-name {
+        font-size: 1.2rem;
+    }
+
+    .dropdown-menu {
+        width: 14vw;
+        font-size: 0.8rem;
+    }
+
+    .q-img {
+        width: 25%;
+    }
+
+    .q-img img {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .q-details h3 {
+        font-size: 1rem;
+    }
+    .q-details  p{
+        font-size: 1rem;
+    }
+
+    .query {
+        height: 12vh;
+    }
+}
+
+@media only screen and (max-height: 850px) {
+    .desc-second {
+        font-size: 1rem;
+        margin: 10px 0 10px 0;
+    }
+}
+
+@media only screen and (max-height: 700px) {
+    .desc-third {
+        height: 18vh;
+    }
+
+    .desc-second {
+        font-size: 0.9rem;
+    }
+
+    .st-name-img img {
+        width: 3rem;
+        height: 3rem;
+    }
+}

@@ -1,0 +1,277 @@
+body {
+    margin: 0;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
+
+.main-yellow {
+    width: 100%;
+    height: 100%;   
+    position: fixed;
+    background-color: #F9D422;
+}
+
+.left-side-menu {
+    width: 20%;
+    height: 100%;
+    position: fixed;
+}
+
+.studio-title {
+    width: 100%;
+    height: 10%;
+    margin-top: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.studio-title > img {
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    float: left;
+    margin-right: 15%;
+    object-fit: cover;
+    
+}
+
+.studio-name {
+    font-size: 3rem;
+}
+
+.main-menu {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20%;
+    /* background-color: red; */
+}
+
+.main-menu > a {
+    font-size: 1.7rem;
+    line-height: 3vmax;
+    padding: 0 5% 0 5%;
+    margin: 0 0 5% 15%;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.main-menu > a:hover{
+    font-size: 1.7rem;
+    line-height: 3vmax;
+    padding: 0 5% 0 5%;
+    margin: 0 0 5% 15%;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.inbox-selected {
+    font-size: 1.7rem;
+    line-height: 3vmax;
+    padding: 0 5% 0 5%;
+    margin: 0 0 5% 15%;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.main-menu > a > .main-menu-content > * {
+    vertical-align: middle;
+}
+
+.main-menu-content > img {
+    margin: 0 20px 0 0;
+}
+
+.main-white {
+    position: absolute;
+    display: flex;
+    width: 79%;
+    height: 95%;
+    left: 20%;
+    top: 0;
+    bottom: 0;
+    transform: translateY(2.5%);
+    border-radius: 3% 0 0 3%;
+    justify-content: space-between;
+    background-color: #F3F7FD;
+}
+
+
+.main-white-left {
+    margin: 3% 2% 3% 3%;
+    width: 75%;
+    height: 92%;    
+    /* background-color: red; */
+}
+
+.title-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    font-size: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 2%;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.18);
+}
+
+.title-section > img {
+    border-radius: 50%;
+    width: 3.5rem;
+    height: 3.5rem;
+    float: left;
+    margin: 0 3% 0 5%;
+    object-fit: cover;
+}
+
+.chat-section {
+    position: relative;
+    width: 100%;
+    height: 80%;
+    height: 80%;
+    background-color: white;
+}
+
+.chat-input {
+    position: absolute;
+    display: flex;
+    width: 92%;
+    height: 6%;
+    bottom: 0;
+    margin: 2%;
+    padding: 0 2% 0 0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.18);
+    /* background-color: red; */
+}
+
+.chat1 {
+    width: 100%;
+    height: 10%;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    bottom: 30%;
+    justify-content: left;
+    /* background-color: red; */
+}
+
+.chat2 {
+    width: 100%;
+    height: 10%;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    bottom: 15%;
+    justify-content: right;
+    /* background-color: red; */
+}
+
+.chat1 > img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    margin: 0 2% 0 5%;
+    object-fit: cover;
+}
+
+.chat2 > img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    margin: 0 5% 0 2%;
+    object-fit: cover;
+}
+
+.yellow-color-msg {
+    width: 70%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    padding: 0 2%;
+    background-color: yellow;
+}
+
+.chat-input > input {
+    width: 91%;
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 0 2%;
+    font-size: 1.2rem;
+}
+
+.main-white-right {
+    margin: 3% 3% 3% 0;
+    width: 20%;
+    height: 92%;
+    /* background-color: orange; */
+}
+
+.search-section {
+    width: 100%;
+    height: 6%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.18);
+    background-color: white;
+}
+
+.search-section > input {
+    width: 96%;
+    height: 100%;
+    margin: 0;
+    border: none;
+    padding: 0 2%;
+    border-radius: 5px;
+}
+
+.main-white-right-bottom {
+    width: 100%;
+    height: 70%;
+    margin-top: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: red; */
+}
+
+.people-list {
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.18);
+    background-color: white;
+}
+
+.people-list > img{
+    width: 2.8rem;
+    height: 2.8rem;
+    border-radius: 50%;
+    margin: 0 5% 0 10%;
+    object-fit: cover;
+}
